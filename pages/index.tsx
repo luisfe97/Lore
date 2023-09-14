@@ -60,7 +60,7 @@ export default function Home() {
               <div className="Card text-center">
                 <div className="d-block mb-0 thumbnail img-mafe">
                   <img
-                    src="/1x/mafe.png"
+                    src="1x/mafe.png"
                     alt="Image"
                     className="img-fluid"
                   ></img>
@@ -100,7 +100,7 @@ export default function Home() {
               <div className="Card text-center ">
                 <div className="row justify-content-around ">
                   <img
-                    src="/1x/mafe.png"
+                    src="1x/mafe.png"
                     alt="Image"
                     className="img-fluid  "
                   ></img>
@@ -116,7 +116,7 @@ export default function Home() {
               <div className="Card text-center ">
                 <div className="img-fenix2 row justify-content-around ">
                   <img
-                    src="/1x/Fenix2.png"
+                    src="1x/Fenix2.png"
                     alt="Image"
                     className="img-fluid  "
                   ></img>
@@ -199,7 +199,7 @@ export default function Home() {
                   </div>
                   <div className="Gema row justify-content-around">
                     <img
-                      src="/1x/gema1.png"
+                      src="1x/gema1.png"
                       alt="Image"
                       className="img-fluid"
                     ></img>
@@ -225,7 +225,7 @@ export default function Home() {
                   </div>
                   <div className="Gema row justify-content-around">
                     <img
-                      src="/1x/gema2.png"
+                      src="1x/gema2.png"
                       alt="Image"
                       className="img-fluid"
                     ></img>
