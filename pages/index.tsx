@@ -35,9 +35,9 @@ export default function Home() {
           <video
             className="fm-video video-js vjs-fill"
             id="fm-video"
-            poster="/1x/Artboard3.png"
+            poster="1x/Artboard3.png"
           >
-            <source src="/Video.mp4" type="video/mp4" />
+            <source src="Video.mp4" type="video/mp4" />
           </video>
         </section>
         <section id="Section4">
