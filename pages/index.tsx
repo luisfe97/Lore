@@ -25,7 +25,7 @@ export default function Home() {
         <section id="Logo" className="d-flex align-items-center">
           <div className="row justify-content-center">
             <div className="col-xl-10 col-lg-10 col-md-10 col-sm-3 pt-10 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-              <img src="logo.png" alt="" />
+              <img src="/logo.png" alt="" />
             </div>
           </div>
         </section>
@@ -35,9 +35,9 @@ export default function Home() {
           <video
             className="fm-video video-js vjs-fill"
             id="fm-video"
-            poster="1x/Artboard3.png"
+            poster="/1x/Artboard3.png"
           >
-            <source src="Video.mp4" type="video/mp4" />
+            <source src="/Video.mp4" type="video/mp4" />
           </video>
         </section>
         <section id="Section4">
@@ -157,7 +157,7 @@ export default function Home() {
               <div className="row justify-content-center">
                 <div className="col-xl-10 col-lg-10 col-md-10 col-sm-3 pt-10 pt-lg-0 d-flex justify-content-center">
                   <a href="#Section6">
-                    <img src="1x/arrow.png" alt="" />
+                    <img src="/1x/arrow.png" alt="" />
                   </a>
                 </div>
               </div>
