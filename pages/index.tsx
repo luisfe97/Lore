@@ -46,7 +46,7 @@ export default function Home() {
               <div className="Card text-center">
                 <div className="d-block mb-0 thumbnail img-fenix">
                   <img
-                    src="/1x/fenix.png"
+                    src="1x/fenix.png"
                     alt="Image"
                     className="img-fenix"
                   ></img>
@@ -116,7 +116,7 @@ export default function Home() {
               <div className="Card text-center ">
                 <div className="img-fenix2 row justify-content-around ">
                   <img
-                    src="1x/Fenix2.png"
+                    src="1x/fenix2.png"
                     alt="Image"
                     className="img-fluid  "
                   ></img>
