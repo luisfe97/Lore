@@ -116,7 +116,7 @@ export default function Home() {
               <div className="Card text-center ">
                 <div className="img-fenix2 row justify-content-around ">
                   <img
-                    src="1x/fenix2.png"
+                    src="1x/fenix2.PNG"
                     alt="Image"
                     className="img-fluid  "
                   ></img>
